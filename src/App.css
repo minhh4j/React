@@ -1,0 +1,37 @@
+.App{
+  text-align: center;
+  transition: background-color 3.2s ease;
+  height: 100vh;
+}
+
+.App-header{
+  margin: auto;
+  padding: 15rem;
+}
+button{
+  padding: 10px 20px;
+  margin-top: 20px;
+  font-size: 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+}
+
+button:hover {
+  background-color: #3d3b3b;
+}
+
+
+.laight{
+  background-color: white;
+  color: black;
+  }
+
+.darck{
+  background-color: black;
+  color: white;
+}
+
+
